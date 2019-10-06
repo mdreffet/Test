@@ -17,9 +17,9 @@ define(['playbackManager', 'skinManager', 'userSettings', 'pluginManager', 'brow
 
         var self = this;
 
-        self.name = 'Test Theme';
+        self.name = 'mdreffet Test';
         self.type = 'skin';
-        self.id = 'test.theme';
+        self.id = 'mdreffet';
 
         var clockInterval;
         self.load = function () {
