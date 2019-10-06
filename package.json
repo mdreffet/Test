@@ -1,6 +1,6 @@
 {
-    "name": "test.theme",
-    "displayName": "Test Theme",
+    "name": "mdreffet",
+    "displayName": "mdreffet Test",
     "version": "1.0.0",
     "description": "Practice Skinning for Emby",
     "plugin": "plugin.js",
